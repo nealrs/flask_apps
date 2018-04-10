@@ -1,0 +1,10 @@
+.env
+feed.json
+*.json
+*.pyc
+mod_db.py
+*.pem
+bin/baenight_test.py
+quixfix.py
+bin/grubhub.py
+bin/hulu.py
